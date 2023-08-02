@@ -1,5 +1,6 @@
 kite-surf_fireman:
     "person" --> "a fireman doing kite-surf"
+    "moutains" + "sea" + "sky" --> "a fire"
 
 kite-surf_santa:
     "person" --> "a Santa doing kite-surf"

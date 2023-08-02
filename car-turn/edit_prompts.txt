@@ -1,0 +1,14 @@
+"car-turn_autumn":
+    "mountains" + "trees" + "grass" --> "a landscape in autumn"
+
+"car-turn_flowers":
+    "grass" --> "a wildflower field"
+
+"car-turn_milky_way":
+    "road" --> "the Milky Way"
+
+"car-turn_retrowave":
+    "car" --> "a retrowave car"
+
+"car-turn_rusty":
+    "car" --> "a rusty car"

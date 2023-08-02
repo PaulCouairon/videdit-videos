@@ -1,0 +1,8 @@
+kite-surf_fireman:
+    "person" --> "a fireman doing kite-surf"
+
+kite-surf_santa:
+    "person" --> "a Santa doing kite-surf"
+
+kite-surf_vangogh:
+    "mountains" + "sea" + "sky" --> "sea  with mountains in the background, Van Gogh style"

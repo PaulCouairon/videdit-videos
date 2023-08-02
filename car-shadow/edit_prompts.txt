@@ -1,0 +1,9 @@
+car-shadow_golden:
+    "car" --> "a golden car"
+
+car-shadow_miyazaki:
+    "car" --> "a drawing of a car, Miyazaki style"
+    "road" + "pavement" + "buildings" --> "a city street, Miyazaki style"
+
+car-shadow_red_paver:
+    "road" --> "a red paver block road"

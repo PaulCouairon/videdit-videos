@@ -1,0 +1,8 @@
+blackswan_crystal:
+    "bird" --> "a crystal swan sculpture"
+
+blackswan_golden:
+    "bird" --> "a golden swan sculpture"
+
+blackswan_wooden:
+    "bird" --> "a wooden swan sculpture"

@@ -1,8 +1,0 @@
-boat_cloudy:
-    "sky" --> "a cloudy sky"
-
-boat_pencil:
-    "boat" --> "a boat in pencil sketch style"
-
-boat_wooden:
-    "boat" --> "a wooden boat"

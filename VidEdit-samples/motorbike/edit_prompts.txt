@@ -1,0 +1,11 @@
+motorbike_golden:
+    "person" + "motorcycle" --> "two golden statues riding a motorbike"
+
+motorbike_lake:
+    "trees" --> "a mountain lake"
+
+motorbike_ice_cream:
+    "potted plants" --> "ice creams"
+
+motorbike_snowy:
+    "trees" + "mountains" --> "a snowy landscape"

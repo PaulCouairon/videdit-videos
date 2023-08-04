@@ -1,0 +1,11 @@
+bus_lego:
+    "bus" --> "a lego bus"
+
+bus_retrowave:
+    "bus" --> "a retrowave bus"
+
+bus_rusty:
+    "bus" --> "a rusty bus"
+
+bus_snow:
+    "trees" --> "trees covered with snow"

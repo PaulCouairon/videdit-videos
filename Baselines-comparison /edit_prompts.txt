@@ -1,0 +1,11 @@
+plastic-flamingo:
+    "bird" --> "a flamingo made of plastic"
+
+retrowave-car:
+    "car" --> "a retrowave car"
+
+rusty-boat:
+    "boat" --> "a rusty boat"
+
+wooden-swan:
+    "bird" --> "a wooden swan"

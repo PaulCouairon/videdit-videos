@@ -1,0 +1,2 @@
+videdit:
+    "dog" --> "a dog in Van Gogh style"

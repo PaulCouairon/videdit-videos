@@ -1,2 +1,0 @@
-videdit:
-    "person" + "motorcycle --> "a robot riding a motorbike"

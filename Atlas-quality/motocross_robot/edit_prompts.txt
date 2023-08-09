@@ -1,0 +1,2 @@
+Motocross:
+    "person" + "motorcycle" --> "a robot riding a motorbike"

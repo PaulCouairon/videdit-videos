@@ -1,0 +1,2 @@
+Motocross:
+    "person" + "motorcycle" --> "a man riding a motorbike, Van Gogh style"
